@@ -379,3 +379,24 @@
         new file:   templates/home/base/base.html
         new file:   templates/home/base/sidebar.html
         new file:   templates/home/index.html
+
+
+#### 2. 7aa6d94 added category
+
+        modified:   blog/urls.py
+        modified:   blog/views.py
+        modified:   templates/blogs/single_blog.html
+        new file:   templates/home/category.html
+        modified:   templates/home/index.html
+
+        Created admin:
+
+        1. name: superuser
+           email: superuser@mail.com
+           password: superuser@mail.com
+
+        2. name: superadmin
+           email: superadmin@mail.com
+           password: superadmin@mail.co
+
+        :)
